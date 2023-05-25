@@ -1,13 +1,5 @@
 {
-    "users": [
-      {
-        "id": 1,
-        "name": "Gertrudis Tatterton",
-        "age": 18,
-        "email": "gtatterton0@ehow.com"
-      }
-      ],
-"appointments": [
+  "appointments": [
     {
       "name": "Jane Doe",
       "image": "https://example.com/doctor-image.jpg",
@@ -28,5 +20,14 @@
       "slots": 1,
       "fee": 100
     }
-  ]
+  ],
+    "users": [
+      {
+        "id": 1,
+        "name": "Gertrudis Tatterton",
+        "age": 18,
+        "email": "gtatterton0@ehow.com"
+      }
+      ]
+
   }
