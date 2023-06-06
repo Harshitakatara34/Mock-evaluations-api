@@ -3,8 +3,9 @@
       {
         "id": 1,
         "name": "Gertrudis Tatterton",
-        "password": 18,
-        "email": "gtatterton0@ehow.com"
+        "email": "gtatterton0@ehow.com",
+        "password": 18
+       
       }
       ]
 
