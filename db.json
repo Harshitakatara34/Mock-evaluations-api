@@ -1,22 +1,6 @@
-[
-  {
-      "id": 1,
-      "image": "https://curefoods-images.eatfit.in/tr:w-600,ar-0.8,c_fit//image/singles/eat/meals/EAT6221/primary/4_1.jpg",
-      "name": "Masala Egg curry, Yellow Dal Tadka, Paratha Thali",
-      "description": "Want a meal that's nutritious yet light on your stomach? This thali of egg curry, dal tadka, and soft whole wheat parathas, served with cucumber carrot salad, sirka onions that's packed with deliciousness.",
-      "cal": 689,
-      "price": 175,
-      "type": "vegan"
-  },
-  {
-      "id": 2,
-      "image": "https://curefoods-images.eatfit.in/tr:w-600,ar-0.8,c_fit//image/singles/eat/meals/EAT6217/primary/4_1.jpg",
-      "name": "Yellow Dal Tadka, Aloo Gobhi, Paratha Thali",
-      "description": "Relish the simple yet beautiful flavors of our homestyle yellow dal tadka and aloo gobhi adraki in this thali. To savor these mains, there’s our soft and fresh whole wheat parathas.",
-      "cal": 541,
-      "price": 175,
-      "type": "High fiber"
-  },
+{
+  "foods":[
+   
   {
       "id": 3,
       "image": "https://curefoods-images.eatfit.in/tr:w-295,ar-1.33/image/singles/eat/meals/ALH04/primary/3_1.jpg",
@@ -35,6 +19,24 @@
       "price": 250,
       "type": "Non-vegetarian"
   },
+  {
+    "id": 1,
+    "image": "https://curefoods-images.eatfit.in/tr:w-600,ar-0.8,c_fit//image/singles/eat/meals/EAT6221/primary/4_1.jpg",
+    "name": "Masala Egg curry, Yellow Dal Tadka, Paratha Thali",
+    "description": "Want a meal that's nutritious yet light on your stomach? This thali of egg curry, dal tadka, and soft whole wheat parathas, served with cucumber carrot salad, sirka onions that's packed with deliciousness.",
+    "cal": 689,
+    "price": 175,
+    "type": "vegan"
+},
+{
+    "id": 2,
+    "image": "https://curefoods-images.eatfit.in/tr:w-600,ar-0.8,c_fit//image/singles/eat/meals/EAT6217/primary/4_1.jpg",
+    "name": "Yellow Dal Tadka, Aloo Gobhi, Paratha Thali",
+    "description": "Relish the simple yet beautiful flavors of our homestyle yellow dal tadka and aloo gobhi adraki in this thali. To savor these mains, there’s our soft and fresh whole wheat parathas.",
+    "cal": 541,
+    "price": 175,
+    "type": "High fiber"
+},
   {
       "id": 5,
       "image": "https://curefoods-images.eatfit.in/tr:w-295,ar-1.33/image/singles/eat/meals/EAT6120/primary/4_1.jpg",
@@ -363,6 +365,8 @@
     "price":400,
     "type":"Sweets"
   } 
-  
 
-]
+   
+  ]
+}
+  
