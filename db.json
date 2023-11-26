@@ -364,9 +364,55 @@
     "cal":201,
     "price":400,
     "type":"Sweets"
+  } ,
+  {
+    "id":43,
+    "image":"https://curefoods-images.eatfit.in/tr:w-295,ar-1.33/image/singles/eat/meals/EAT6586/primary/3_1.jpg",
+    "name":"Sabudana Khichadi",
+    "cal":342,
+    "price":169,
+    "type":"Khichadi"
+  } ,
+  {
+    "id":44,
+    "image":"https://curefoods-images.eatfit.in/tr:w-295,ar-1.33/image/singles/eat/meals/GIK40/primary/3_1.jpg",
+    "name":"Simple Daal Khichadi",
+    "cal":301,
+    "price":150,
+    "type":"Khichadi"
+  } ,
+  {
+    "id":45,
+    "image":"https://curefoods-images.eatfit.in/tr:w-295,ar-1.33/image/singles/eat/meals/WL440/primary/6_1.jpg",
+    "name":"Quinoa Khichadi",
+    "cal":301,
+    "price":150,
+    "type":"Khichadi"
+  } ,
+  {
+    "id":46,
+    "image":"https://curefoods-images.eatfit.in/tr:w-295,ar-1.33/image/singles/eat/meals/EAT7030/primary/2_1.jpg",
+    "name":"Signature Sabudana Khichadi",
+    "cal":383,
+    "price":300,
+    "type":"Khichadi"
+  } ,
+  {
+    "id":47,
+    "image":"https://curefoods-images.eatfit.in/tr:w-295,ar-1.33/image/singles/eat/meals/GIK41/primary/1_1.jpg",
+    "name":"Homely Daal Palak Khichadi",
+    "cal":250,
+    "price":400,
+    "type":"Khichadi"
+  } ,
+  {
+    "id":48,
+    "image":"https://curefoods-images.eatfit.in/tr:w-295,ar-1.33/image/singles/eat/meals/EAT6872/primary/3_1.jpg",
+    "name":"Millet Khichadi",
+    "cal":100,
+    "price":440,
+    "type":"Khichadi"
   } 
-
-   
   ]
 }
   
