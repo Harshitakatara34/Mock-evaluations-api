@@ -256,7 +256,7 @@
   {
     "id":29,
     "image":"https://curefoods-images.eatfit.in/image/eatfit-category/CFI_BEVERAGES_2.png",
-    "description":"pommegrannate",
+    "name":"pommegrannate",
     "cal":200,
     "price":200,
     "type":"Drinks"
@@ -264,7 +264,7 @@
   {
     "id":30,
     "image":"https://curefoods-images.eatfit.in/tr:w-295,ar-1.33/image/singles/eat/meals/SMD02/primary/5_1.jpg",
-    "description":"Mango",
+    "name":"Mango",
     "cal":90,
     "price":150,
     "type":"Drinks"
@@ -272,7 +272,7 @@
   {
     "id":31,
     "image":"https://curefoods-images.eatfit.in/tr:w-295,ar-1.33/image/singles/eat/meals/SMD19/primary/5_1.jpg",
-    "description":"Lemmonade",
+    "name":"Lemmonade",
     "cal":200,
     "price":160,
     "type":"Drinks"
@@ -280,7 +280,7 @@
   {
     "id":32,
     "image":"https://curefoods-images.eatfit.in/tr:w-295,ar-1.33/image/singles/eat/meals/SMD03/primary/1_1.jpg",
-    "description":"Mixed Fruit",
+    "name":"Mixed Fruit",
     "cal":150,
     "price":180,
     "type":"Drinks"
@@ -288,7 +288,7 @@
   {
     "id":33,
     "image":"https://curefoods-images.eatfit.in/tr:w-295,ar-1.33/image/singles/eat/meals/EAT6409/primary/3_1.jpg",
-    "description":"Mocha Shake",
+    "name":"Mocha Shake",
     "cal":40,
     "price":170,
     "type":"Drinks"
@@ -296,7 +296,7 @@
   {
     "id":34,
     "image":"https://curefoods-images.eatfit.in/tr:w-295,ar-1.33/image/singles/eat/meals/SMD01/primary/5_1.jpg",
-    "description":"Jamun",
+    "name":"Jamun",
     "cal":50,
     "price":190,
     "type":"Drinks"
@@ -304,7 +304,7 @@
   {
     "id":35,
     "image":"https://curefoods-images.eatfit.in/tr:w-295,ar-1.33/image/singles/eat/meals/EAT6715/primary/2_1.jpg",
-    "description":"Classic Cold Coffee",
+    "name":"Classic Cold Coffee",
     "cal":60,
     "price":300,
     "type":"Drinks"
@@ -312,7 +312,7 @@
   {
     "id":36,
     "image":"https://curefoods-images.eatfit.in/tr:w-295,ar-1.33/image/singles/eat/meals/EAT6491/primary/2_1.jpg",
-    "description":"Badam Kheer",
+    "name":"Badam Kheer",
     "cal":160,
     "price":500,
     "type":"Sweets"
@@ -320,7 +320,7 @@
   {
     "id":37,
     "image":"https://curefoods-images.eatfit.in/tr:w-295,ar-1.33/image/singles/eat/meals/CZL04/primary/1_1.jpg",
-    "description":"Data Raisan Cake",
+    "name":"Data Raisan Cake",
     "cal":200,
     "price":450,
     "type":"Sweets"
@@ -328,7 +328,7 @@
   {
     "id":38,
     "image":"https://curefoods-images.eatfit.in/tr:w-295,ar-1.33/image/singles/eat/meals/EAT6943/primary/1_1.jpg",
-    "description":"Gulab Juman",
+    "name":"Gulab Juman",
     "cal":180,
     "price":350,
     "type":"Sweets"
@@ -336,7 +336,7 @@
   {
     "id":39,
     "image":"https://curefoods-images.eatfit.in/tr:w-295,ar-1.33/image/singles/eat/meals/CZL01/primary/1_1.jpg",
-    "description":"Chocolate Orange Mousse",
+    "name":"Chocolate Orange Mousse",
     "cal":190,
     "price":540,
     "type":"Sweets"
@@ -344,7 +344,7 @@
   {
     "id":40,
     "image":"https://curefoods-images.eatfit.in/tr:w-295,ar-1.33/image/singles/eat/meals/HRX10/primary/1_1.jpg",
-    "description":"Ket Brownie",
+    "name":"Ket Brownie",
     "cal":300,
     "price":389,
     "type":"Sweets"
@@ -352,7 +352,7 @@
   {
     "id":41,
     "image":"https://curefoods-images.eatfit.in/tr:w-295,ar-1.33/image/singles/eat/meals/HRX11/primary/1_1.jpg",
-    "description":"Ket Cheese Cake",
+    "name":"Ket Cheese Cake",
     "cal":200,
     "price":720,
     "type":"Sweets"
@@ -360,7 +360,7 @@
   {
     "id":42,
     "image":"https://curefoods-images.eatfit.in/tr:w-295,ar-1.33/image/singles/eat/meals/EAT7232/primary/1_1.jpg",
-    "description":"Badam Kheer",
+    "name":"Badam Kheer",
     "cal":201,
     "price":400,
     "type":"Sweets"
